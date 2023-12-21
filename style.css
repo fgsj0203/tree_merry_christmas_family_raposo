@@ -10,11 +10,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(6, 5, 63);
+    background: rgb(63, 5, 5);
     background: linear-gradient(to bottom,
-            rgb(6, 5, 63) 0%,
-            rgb(6, 5, 63) 65%,
-            rgb(6, 5, 63) 100%);
+            rgb(255, 0, 0) 0%,
+            rgb(63, 5, 5) 65%,
+            rgb(63, 5, 5) 100%);
 }
 
 .banner_content {
